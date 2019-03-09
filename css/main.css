@@ -625,12 +625,14 @@ a {
   }
   /* main #contact {
     margin: 0 1px;
-  }
+  } */
   main .lg-heading {
     text-align: center;
+    position: relative;
+    right: 25px;
     margin-top: 1rem;
     font-size: 3rem;
-  } */
+  }
   /* main .text-secondary {
       text-align: center;
     } */
