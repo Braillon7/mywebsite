@@ -50,7 +50,7 @@
 
 #services-section {
   padding: 80px 15px;
-  margin: 0 25px;
+  margin: 0 50px;
 }
 #services-section .title {
   position: relative;
@@ -295,7 +295,7 @@
 
 * {
   box-sizing: border-box;
-  margin: 0 25px;
+  margin: 0 50px;
 }
 
 h1,
@@ -431,7 +431,7 @@ a {
 
 #experience-section {
   padding: 80px 15px;
-  margin: 0 25px;
+  margin: 0 50px;
 }
 
 #experience-section .large-title {
