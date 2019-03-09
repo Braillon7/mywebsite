@@ -146,6 +146,16 @@
 }
 /* Phones */
 @media only screen and (max-width: 767px) {
+  #services-section {
+    /* padding: 80px 15px; */
+    margin: 0 5px;
+  }
+  #work {
+    margin: 0 5px;
+  }
+  #experience {
+    margin: 0 5px;
+  }
 }
 /* End of Services Section */
 
@@ -622,5 +632,15 @@ a {
     } */
   .boxes div {
     font-size: 1rem;
+  }
+  #services-section {
+    /* padding: 80px 15px; */
+    margin: 0 5px;
+  }
+  #work {
+    margin: 0 5px;
+  }
+  #experience {
+    margin: 0 5px;
   }
 }
