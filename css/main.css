@@ -623,7 +623,11 @@ a {
   main #home h1 {
     margin-top: 10vh;
   }
+  main #contact {
+    margin: 0 1px;
+  }
   main .lg-heading {
+    text-align: center;
     margin-top: 1rem;
     font-size: 3rem;
   }
