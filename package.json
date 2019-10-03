@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Professional Portfolio",
   "main": "index.js",
-  "homepage": "https:/Braillon7.github.io/mywebsite",
+  "homepage": "https:/nasirwatts.github.io/mywebsite",
   "scripts": {
     "deploy": "gh-pages -d dist"
   },
